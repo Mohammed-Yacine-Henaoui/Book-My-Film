@@ -6,7 +6,7 @@ For the backend, we opted for Spring, structured around entities, repositories, 
 
 # Class Diagram
 
-![Class Diagram](front_end_gestion_cinema/images/umlDiagram.png)
+![Class Diagram](front_end_gestion_cinema/images/uml.png)
 
 # Screens of the Application
 
