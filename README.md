@@ -6,79 +6,79 @@ For the backend, we opted for Spring, structured around entities, repositories, 
 
 # Class Diagram
 
-![Class Diagram](images/sddefault.jpg)
+![Class Diagram](front_end_gestion_cinema/images/sddefault.jpg)
 
 #Screens of the Application
 
-![photo 1](images/1.png)
+![photo 1](front_end_gestion_cinema/images/1.png)
 
-![photo 2](images/2.png)
+![photo 2](front_end_gestion_cinema/images/2.png)
 
-![photo 3](images/3.png)
+![photo 3](front_end_gestion_cinema/images/3.png)
 
-![photo 4](images/4.png)
+![photo 4](front_end_gestion_cinema/images/4.png)
 
-![photo 5](images/5.png)
+![photo 5](front_end_gestion_cinema/images/5.png)
 
-![photo 6](images/6.png)
+![photo 6](front_end_gestion_cinema/images/6.png)
 
-![photo 7](images/7.png)
+![photo 7](front_end_gestion_cinema/images/7.png)
 
-![photo 8](images/8.png)
+![photo 8](front_end_gestion_cinema/images/8.png)
 
-![photo 9](images/9.png)
+![photo 9](front_end_gestion_cinema/images/9.png)
 
-![photo 10](images/10.png)
+![photo 10](front_end_gestion_cinema/images/10.png)
 
-![photo 11](images/11.png)
+![photo 11](front_end_gestion_cinema/images/11.png)
 
-![photo 12](images/12.png)
+![photo 12](front_end_gestion_cinema/images/12.png)
 
-![photo 13](images/13.png)
+![photo 13](front_end_gestion_cinema/images/13.png)
 
-![photo 14](images/14.png)
+![photo 14](front_end_gestion_cinema/images/14.png)
 
-![photo 15](images/15.png)
+![photo 15](front_end_gestion_cinema/images/15.png)
 
-![photo 16](images/16.png)
+![photo 16](front_end_gestion_cinema/images/16.png)
 
-![photo 17](images/17.png)
+![photo 17](front_end_gestion_cinema/images/17.png)
 
-![photo 18](images/18.png)
+![photo 18](front_end_gestion_cinema/images/18.png)
 
-![photo 19](images/19.png)
+![photo 19](front_end_gestion_cinema/images/19.png)
 
-![photo 20](images/20.png)
+![photo 20](front_end_gestion_cinema/images/20.png)
 
-![photo 21](images/21.png)
+![photo 21](front_end_gestion_cinema/images/21.png)
 
-![photo 22](images/22.png)
+![photo 22](front_end_gestion_cinema/images/22.png)
 
-![photo 23](images/23.png)
+![photo 23](front_end_gestion_cinema/images/23.png)
 
-![photo 24](images/24.png)
+![photo 24](front_end_gestion_cinema/images/24.png)
 
-![photo 25](images/25.png)
+![photo 25](front_end_gestion_cinema/images/25.png)
 
-![photo 26](images/26.png)
+![photo 26](front_end_gestion_cinema/images/26.png)
 
-![photo 27](images/27.png)
+![photo 27](front_end_gestion_cinema/images/27.png)
 
-![photo 28](images/28.png)
+![photo 28](front_end_gestion_cinema/images/28.png)
 
-![photo 29](images/29.png)
+![photo 29](front_end_gestion_cinema/images/29.png)
 
-![photo 30](images/30.png)
+![photo 30](front_end_gestion_cinema/images/30.png)
 
-![photo 31](images/31.png)
+![photo 31](front_end_gestion_cinema/images/31.png)
 
-![photo 32](images/32.png)
+![photo 32](front_end_gestion_cinema/images/32.png)
 
-![photo 33](images/33.png)
+![photo 33](front_end_gestion_cinema/images/33.png)
 
-![photo 34](images/34.png)
+![photo 34](front_end_gestion_cinema/images/34.png)
 
-![photo 35](images/35.png)
+![photo 35](front_end_gestion_cinema/images/35.png)
 
 # Requirements
 
@@ -89,7 +89,7 @@ For the backend, we opted for Spring, structured around entities, repositories, 
 
 # Run backend:
 
-![jar](images/jar.png)
+![jar](front_end_gestion_cinemaimages/jar.png)
 
 
 
