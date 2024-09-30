@@ -89,7 +89,7 @@ For the backend, we opted for Spring, structured around entities, repositories, 
 
 # Run backend:
 
-![jar](front_end_gestion_cinemaimages/java.png)
+.....\gestion_cinema\target>java -jar gestion_cinema-0.0.1-SNAPSHOT.jar
 
 
 
